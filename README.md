@@ -33,7 +33,7 @@ json
 
 {
   "username": "RSS Bot",
-  "avatar_url": "https://i.imgur.com/KMdKUvc.png",
+  "avatar_url": "https://i.imgur.com/WmZIzG6.png",
   "embeds": [{
     "title": "{{EntryTitle}}",
     "url": "{{EntryUrl}}",
